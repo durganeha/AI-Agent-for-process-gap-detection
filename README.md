@@ -1,7 +1,6 @@
+# AI-Agent-for-process-gap-detection
 
-# FlowCheck AI
-
-FlowCheck AI is an intelligent system that analyzes process documents such as Standard Operating Procedures (SOPs) and workflow descriptions to detect gaps, ambiguities, and logical inconsistencies.
+AI-Agent for process gap detection is an intelligent system that analyzes process documents such as Standard Operating Procedures (SOPs) and workflow descriptions to detect gaps, ambiguities, and logical inconsistencies.
 
 The system combines Natural Language Processing, semantic similarity search, and lightweight language models to understand process steps and identify potential issues before execution.
 
@@ -9,5 +8,5 @@ FlowCheck AI helps organizations improve process clarity, reduce operational err
 
 
 
-# AI-Agent-for-process-gap-detection
+
 
